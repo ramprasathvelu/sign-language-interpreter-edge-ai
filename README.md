@@ -1,6 +1,6 @@
 # Real-Time Sign Language Interpreter using Computer Vision and Edge AI on Raspberry Pi
 Real-time sign language recognition system using MediaPipe and Machine Learning, deployed on Raspberry Pi as an Edge AI solution. Converts hand gestures into text with optional speech output using a lightweight, low-cost architecture.
-# 🤟 Real-Time Sign Language Interpreter — Edge AI on Raspberry Pi
+# Real-Time Sign Language Interpreter — Edge AI on Raspberry Pi
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Raspberry%20Pi%204-red?style=for-the-badge&logo=raspberry-pi" />
